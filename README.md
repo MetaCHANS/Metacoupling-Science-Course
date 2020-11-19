@@ -1,8 +1,8 @@
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
-Seminar Course (Spring 2021)\ 
+Seminar Course (Spring 2021)\
 FW 893, Section 731\
 **Days and times**: To be determined according to the students’ schedules\
-**Format**: Online (or in person if the pandemic is over)\
+**Format**: Online (or in person if the pandemic is over)
 
 ## Instructor
 Professor **Jianguo (Jack) Liu**\
