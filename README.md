@@ -11,13 +11,15 @@ This course will examine key issues and exciting frontiers in the new science of
 ![liu_2017_metacoupling_framework](/images/liu_2017_metacoupling_framework.png)
 
 ## Research topics
+### Metacoupling and SDGs
 ![metacoupling_sdg_wheel](/images/metacoupling_sdg_wheel.png)
 
-![zhao_2020_sdg_tradeoff](/images/zhao_2020_sdg_tradeoff.jpg)
+### SDGs tradeoffs in a metacoupled world 
 <p align="center">
   <img src="/images/zhao_2020_sdg_tradeoff.jpg" />
 </p>
 
+### Telecoupling Toolbox
 ![Tonini_2017_Telecoupling_Toolbox](/images/Tonini_2017_Telecoupling_Toolbox.png)
 
 ## Key Readings
