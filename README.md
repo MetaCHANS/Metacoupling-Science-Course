@@ -16,7 +16,7 @@ This course will examine key issues and exciting frontiers in the new science of
 
 ### SDGs tradeoffs in a metacoupled world 
 <p align="center">
-  <img src="/images/zhao_2020_sdg_tradeoff.jpg" />
+  <img src="/images/zhao_2020_sdg_tradeoffs.jpg" />
 </p>
 
 ### Telecoupling Toolbox
