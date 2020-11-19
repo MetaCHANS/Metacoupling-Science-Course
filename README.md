@@ -8,7 +8,14 @@ A human-environment scientist and sustainability scholar, Jianguo "Jack" Liu hol
 ## About the Course
 This course will examine key issues and exciting frontiers in the new science of **metacoupling** (human-nature interactions within as well as between adjacent and distant coupled human and natural systems, e.g., social-ecological systems, human-environment systems). Metacoupling science has emerged as a hot topic as it helps guide innovative scientific discoveries and create integrated solutions to global challenges in sustainability, conservation, management, policy, and governance. Besides discussing important metacoupling concepts and methods as well as applications to a variety of important scientific and societal issues (e.g., biodiversity, climate change, ecosystem services, energy, environment, fisheries, food, forest, species invasion, land, migration, trade, water, and wildlife), students will have opportunities to learn how to write highimpacts papers. This seminar course will consist of lectures, guest lectures and students-led discussion sessions. Some background information is available [here](https://www.canr.msu.edu/telecoupling/).
 
-![telecoupling_sdg_wheel](/images/telecoupling_sdg_wheel.png)
+![liu_2017_metacoupling_framework](/images/liu_2017_metacoupling_framework.png)
+
+## Research topics
+![metacoupling_sdg_wheel](/images/metacoupling_sdg_wheel.png)
+
+![zhao_2020_sdg_tradeoff](/images/zhao_2020_sdg_tradeoff.jpg)
+
+![Tonini_2017_Telecoupling_Toolbox](/images/Tonini_2017_Telecoupling_Toolbox.png)
 
 ## Key Readings
 - Liu, J. (2017). Integration across a metacoupled world. **Ecology and Society**, 22(4).
