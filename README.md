@@ -4,11 +4,14 @@ FW 893, Section 731
 
 ## Instructor
 Professor **Jianguo (Jack) Liu**
+
 **Days and times**: To be determined according to the students’ schedules
+
 **Format**: Online (or in person if the pandemic is over)
+
 **Assistant**: Yingjie Li
 
-A human-environment scientist and sustainability scholar, Jianguo "Jack" Liu holds the Rachel Carson Chair in Sustainability, is University Distinguished Professor of fisheries and wildlife at Michigan State University and serves as director of the Center for Systems Integration and Sustainability. Liu takes a holistic approach to addressing complex human-environmental challenges through systems integration, which means he integrates multiple disciplines such as ecology and social sciences. He is particularly keen to connect seemingly unconnected issues, for example divorce and environmental sustainability. His work has been published in journals such as Nature and Science and has been widely covered by the international news media. Find more about [Dr. Liu](http://www.csis.msu.edu/people/jianguo-jack-liu).
+A human-environment scientist and sustainability scholar, **Jianguo "Jack" Liu** holds the Rachel Carson Chair in Sustainability, is University Distinguished Professor of fisheries and wildlife at Michigan State University and serves as director of the Center for Systems Integration and Sustainability. Liu takes a holistic approach to addressing complex human-environmental challenges through systems integration, which means he integrates multiple disciplines such as ecology and social sciences. He is particularly keen to connect seemingly unconnected issues, for example divorce and environmental sustainability. His work has been published in journals such as Nature and Science and has been widely covered by the international news media. Find more about [Dr. Liu](http://www.csis.msu.edu/people/jianguo-jack-liu).
 
 ## About the Course
 This course will examine key issues and exciting frontiers in the new science of **metacoupling** (human-nature interactions within as well as between adjacent and distant coupled human and natural systems, e.g., social-ecological systems, human-environment systems). Metacoupling science has emerged as a hot topic as it helps guide innovative scientific discoveries and create integrated solutions to global challenges in sustainability, conservation, management, policy, and governance. Besides discussing important metacoupling concepts and methods as well as applications to a variety of important scientific and societal issues (e.g., biodiversity, climate change, ecosystem services, energy, environment, fisheries, food, forest, species invasion, land, migration, trade, water, and wildlife), students will have opportunities to learn how to write highimpacts papers. This seminar course will consist of lectures, guest lectures and students-led discussion sessions. Some background information is available [here](https://www.canr.msu.edu/telecoupling/).
