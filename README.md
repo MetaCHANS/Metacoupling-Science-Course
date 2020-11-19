@@ -13,5 +13,6 @@ This course will examine key issues and exciting frontiers in the new science of
 - Liu, J., Mooney, H., Hull, V., Davis, S. J., Gaskell, J., Hertel, T., ... & Li, S. (2015). Systems integration for global sustainability. **Science**, 347(6225).
 - Liu, J., Dietz, T., Carpenter, S. R., Alberti, M., Folke, C., Moran, E., ... & Ostrom, E. (2007). Complexity of coupled human and natural systems. **Science**, 317(5844), 1513-1516.
 - Xu, Z., Li, Y., Chau, S. N., Dietz, T., Li, C., Wan, L., ... & Liu, J. (2020). Impacts of international trade on global sustainable development. **Nature Sustainability**, 1-8.
+  + Blog post https://sustainabilitycommunity.springernature.com/posts/trade-and-sdgs
 - Xu, Z., Chen, X., Liu, J. et al. (2020) Impacts of irrigated agriculture on food–energy–water–CO2 nexus across metacoupled systems. **Nature Communications** 11, 5837.
 
