@@ -1,7 +1,12 @@
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
+Seminar Course (Spring 2021) 
+FW 893, Section 731
 
-## Instructors
-This is a seminar course by Prof. **Jianguo "Jack" Liu**
+## Instructor
+Professor **Jianguo (Jack) Liu**
+**Days and times**: To be determined according to the students’ schedules
+**Format**: Online (or in person if the pandemic is over)
+**Assistant**: Yingjie Li
 
 A human-environment scientist and sustainability scholar, Jianguo "Jack" Liu holds the Rachel Carson Chair in Sustainability, is University Distinguished Professor of fisheries and wildlife at Michigan State University and serves as director of the Center for Systems Integration and Sustainability. Liu takes a holistic approach to addressing complex human-environmental challenges through systems integration, which means he integrates multiple disciplines such as ecology and social sciences. He is particularly keen to connect seemingly unconnected issues, for example divorce and environmental sustainability. His work has been published in journals such as Nature and Science and has been widely covered by the international news media. Find more about [Dr. Liu](http://www.csis.msu.edu/people/jianguo-jack-liu).
 
