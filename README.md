@@ -14,6 +14,9 @@ This course will examine key issues and exciting frontiers in the new science of
 ![metacoupling_sdg_wheel](/images/metacoupling_sdg_wheel.png)
 
 ![zhao_2020_sdg_tradeoff](/images/zhao_2020_sdg_tradeoff.jpg)
+<p align="center">
+  <img src="/images/zhao_2020_sdg_tradeoff.jpg" />
+</p>
 
 ![Tonini_2017_Telecoupling_Toolbox](/images/Tonini_2017_Telecoupling_Toolbox.png)
 
