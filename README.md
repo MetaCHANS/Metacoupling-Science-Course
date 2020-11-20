@@ -2,8 +2,8 @@
 Seminar Course (Spring 2021)\
 :mortar_board: FW 893, Section 731\
 :clock10: **Days and times**: To be determined according to the students’ schedules\
-:computer: **Format**: Online (or in person if the pandemic is over)
-:red_circle: <span style="color:red">Have questions? [***Leave a message here.***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>
+:computer: **Format**: Online (or in person if the pandemic is over)\
+:red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>
 
 ## Instructor
 Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu)\
