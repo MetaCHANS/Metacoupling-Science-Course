@@ -1,8 +1,10 @@
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 Seminar Course (Spring 2021)\
-FW 893, Section 731\
-**Days and times**: To be determined according to the students’ schedules\
-**Format**: Online (or in person if the pandemic is over)
+:mortar_board:FW 893, Section 731\
+:clock10: **Days and times**: To be determined according to the students’ schedules\
+:computer:**Format**: Online (or in person if the pandemic is over)
+
+:red_circle: <span style="color:red">some [***Have questions? Leave a message here or email the instructor .***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) text</span>
 
 ## Instructor
 Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu)\

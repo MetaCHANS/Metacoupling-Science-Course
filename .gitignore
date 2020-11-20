@@ -41,5 +41,6 @@ vignettes/*.pdf
 
 # Ignoring directories in Git repositories on Windows
 for_instructors/
+docs/
 desktop.ini
 .Rproj
