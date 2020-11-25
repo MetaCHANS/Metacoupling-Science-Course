@@ -6,7 +6,7 @@ Seminar Course (Spring 2021)\
 :red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>
 
 ## Instructor
-Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu); liuji@msu.edu\
+Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu); liuji@msu.edu
 
 
 A human-environment scientist and sustainability scholar, **Jianguo "Jack" Liu** holds the Rachel Carson Chair in Sustainability, is University Distinguished Professor of fisheries and wildlife at Michigan State University and serves as director of the Center for Systems Integration and Sustainability. Liu takes a holistic approach to addressing complex human-environmental challenges through systems integration, which means he integrates multiple disciplines such as ecology and social sciences. He is particularly keen to connect seemingly unconnected issues, for example divorce and environmental sustainability. His work has been published in journals such as Nature and Science and has been widely covered by the international news media. Find more about [Dr. Liu](http://www.csis.msu.edu/people/jianguo-jack-liu).
