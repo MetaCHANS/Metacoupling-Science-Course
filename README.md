@@ -38,7 +38,7 @@ This course will examine key issues and exciting frontiers in the new science of
 > Pandemic
 
 <p align="center">
-  <img src="/images/COVID-19.png" />
+  <img src="/images/COVID19.png" />
 </p>
 
 *Lee, E. C., Wada, N. I., Grabowski, M. K., Gurley, E. S., & Lessler, J. (2020). The engines of SARS-CoV-2 spread. Science, 370(6515), 406-407.*
