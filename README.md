@@ -26,13 +26,18 @@ This course will examine key issues and exciting frontiers in the new science of
 </p>
 
 ## Research topics
+
 > Metacoupling and SDGs
+
 ![metacoupling_sdg_wheel](/images/metacoupling_sdg_wheel.png)
 *Xu, Z., Li, Y., Chau, S. N., Dietz, T., Li, C., Wan, L., ... & Liu, J. (2020). Impacts of international trade on global sustainable development. Nature Sustainability, 3(11), 964-971.*
 
+
 > Telecoupling Toolbox
+
 ![Tonini_2017_Telecoupling_Toolbox](/images/Tonini_2017_Telecoupling_Toolbox.png)
 *Tonini, F., & Liu, J. (2017). Telecoupling toolbox: spatially explicit tools for studying telecoupled human and natural systems. Ecology and Society, 22(4).*
+
 
 > Pandemic
 
@@ -40,6 +45,7 @@ This course will examine key issues and exciting frontiers in the new science of
   <img src="/images/COVID-19.png" />
 </p>
 *Lee, E. C., Wada, N. I., Grabowski, M. K., Gurley, E. S., & Lessler, J. (2020). The engines of SARS-CoV-2 spread. Science, 370(6515), 406-407.*
+
 
 ## Key Readings
 - Liu, J. (2017). Integration across a metacoupled world. **Ecology and Society**, 22(4).
