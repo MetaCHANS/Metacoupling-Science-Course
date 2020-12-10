@@ -1,9 +1,5 @@
----
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
+
+
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 Seminar Course (Spring 2021)\
 :mortar_board: FW 893, Section 731 (1 credit)\
@@ -44,6 +40,7 @@ This course will examine key issues and exciting frontiers in the new science of
 <p align="center">
   <img src="/images/COVID-19.png" />
 </p>
+
 *Lee, E. C., Wada, N. I., Grabowski, M. K., Gurley, E. S., & Lessler, J. (2020). The engines of SARS-CoV-2 spread. Science, 370(6515), 406-407.*
 
 
