@@ -1,9 +1,16 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 Seminar Course (Spring 2021)\
 :mortar_board: FW 893, Section 731\
 :clock10: **Days and times**: To be determined according to the students’ schedules\
 :computer: **Format**: Online (or in person if the pandemic is over)\
 :red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>
+:cupid:To Enroll: https://schedule.msu.edu/default.aspx
 
 ## Instructor
 Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu); liuji@msu.edu\
@@ -19,11 +26,17 @@ This course will examine key issues and exciting frontiers in the new science of
 </p>
 
 ## Research topics
-### Metacoupling and SDGs
+### - Metacoupling and SDGs
 ![metacoupling_sdg_wheel](/images/metacoupling_sdg_wheel.png)
+*Xu, Z., Li, Y., Chau, S. N., Dietz, T., Li, C., Wan, L., ... & Liu, J. (2020). Impacts of international trade on global sustainable development. Nature Sustainability, 3(11), 964-971.*
 
-### Telecoupling Toolbox
+### - Telecoupling Toolbox
 ![Tonini_2017_Telecoupling_Toolbox](/images/Tonini_2017_Telecoupling_Toolbox.png)
+*Tonini, F., & Liu, J. (2017). Telecoupling toolbox: spatially explicit tools for studying telecoupled human and natural systems. Ecology and Society, 22(4).*
+
+### - Pandemic
+![Pandemic](/images/COVID-19.png)
+*Lee, E. C., Wada, N. I., Grabowski, M. K., Gurley, E. S., & Lessler, J. (2020). The engines of SARS-CoV-2 spread. Science, 370(6515), 406-407.*
 
 ## Key Readings
 - Liu, J. (2017). Integration across a metacoupled world. **Ecology and Society**, 22(4).
