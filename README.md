@@ -7,7 +7,7 @@ Seminar Course (Spring 2021)\
 :office: **Office hour**:  Thursdays: 10:00-11:00 am EST (Zoom)\
 :computer: **Format**: Online via Zoom\
 :red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>\
-:cupid:To Enroll: https://schedule.msu.edu/default.aspx
+:cupid: **To enroll**: https://schedule.msu.edu/default.aspx
 
 ## Instructor
 Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-liu); liuji@msu.edu
@@ -17,7 +17,9 @@ A human-environment scientist and sustainability scholar, **Jianguo "Jack" Liu**
 
 
 ## Teaching Assistant
-[Yingjie Li](http://www.csis.msu.edu/people/yingjie-li); liyj@msu.edu
+[Yingjie Li](http://www.csis.msu.edu/people/yingjie-li), He/Him/His
+
+liyj@msu.edu
 
 
 ## About the Course
