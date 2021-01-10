@@ -3,8 +3,8 @@
 # Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 Seminar Course (Spring 2021)\
 :mortar_board: FW 893, Section 731 (1 credit)\
-:clock10: **Days and times**: To be determined according to the students’ schedules\
-:computer: **Format**: Online (or in person if the pandemic is over)\
+:clock10: **Days and times**: Thursdays: 9:00-9:50 am EST\
+:computer: **Format**: Zoom\
 :red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>\
 :cupid:To Enroll: https://schedule.msu.edu/default.aspx
 
