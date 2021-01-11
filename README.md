@@ -4,7 +4,7 @@
 Seminar Course (Spring 2021)\
 :mortar_board: FW 893, Section 731 (1 credit)\
 :clock10: **Days and times**: Thursdays: 9:00-9:50 am EST\
-:office: **Office hour**:  Thursdays: 10:00-11:00 am EST (Zoom)\
+:office: **Office hour**:  Thursdays: 10:00-11:00 am EST (Zoom) [sign-up-form](https://docs.google.com/spreadsheets/d/1Adw1Uxj7Ygdp2AClRtdG0Yk2rpkQff6Crfjwnk3r92w/edit?usp=sharing)\
 :computer: **Format**: Online via Zoom\
 :red_circle: <span style="color:red">Have questions? [***Leave a message here***](https://docs.google.com/document/d/1cdDtqL1gZ2pBOcTUAnhdBaDcf4x-eKlsP_pHSRsqA5A/edit?usp=sharing) or email the instructor.</span>\
 :cupid: **To enroll**: https://schedule.msu.edu/default.aspx
