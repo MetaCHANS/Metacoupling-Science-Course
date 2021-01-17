@@ -16,10 +16,13 @@ Professor [**Jianguo (Jack) Liu**](http://www.csis.msu.edu/people/jianguo-jack-l
 A human-environment scientist and sustainability scholar, **Jianguo "Jack" Liu** holds the Rachel Carson Chair in Sustainability, is University Distinguished Professor of fisheries and wildlife at Michigan State University and serves as director of the Center for Systems Integration and Sustainability. Liu takes a holistic approach to addressing complex human-environmental challenges through systems integration, which means he integrates multiple disciplines such as ecology and social sciences. He is particularly keen to connect seemingly unconnected issues, for example divorce and environmental sustainability. His work has been published in journals such as Nature and Science and has been widely covered by the international news media. Find more about [Dr. Liu](http://www.csis.msu.edu/people/jianguo-jack-liu).
 
 
-## Teaching Assistant
-[Yingjie Li](http://www.csis.msu.edu/people/yingjie-li), He/Him/His
 
-liyj@msu.edu
+## Teaching Assistant
+[**Yingjie Li**](http://www.csis.msu.edu/people/yingjie-li) (he/him/his); liyj@msu.edu
+
+
+Yingjie is a dual major (Fisheries and Wildlife, Environmental Science and Policy) Ph.D. Candidate in the CSIS at MSU. He works with Dr. Jianguo 'Jack' Liu pursuing his research interest in Ecosystem Service Flows and Sustainability in Metacoupled Human and Natural Systems. 
+
 
 
 ## About the Course
