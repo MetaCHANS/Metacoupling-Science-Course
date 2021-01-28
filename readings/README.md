@@ -11,7 +11,8 @@
 
 # Office hour
 
-- Thursdays: 10:00-11:00 am EST (the same Zoom link) [sign-up-form](https://docs.google.com/spreadsheets/d/1Adw1Uxj7Ygdp2AClRtdG0Yk2rpkQff6Crfjwnk3r92w/edit?usp=sharing) & **Please send a reminder email to us after your signing up in this table**
+- Thursdays: 10:00-11:00 am EST (the same Zoom link)
+- [Sign-Up-Table](https://docs.google.com/spreadsheets/d/1Adw1Uxj7Ygdp2AClRtdG0Yk2rpkQff6Crfjwnk3r92w/edit?usp=sharing) & **Please send a reminder email to Jack or/and Yingjie after you signing up in this table**
 
 
 
