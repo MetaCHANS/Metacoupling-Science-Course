@@ -9,4 +9,9 @@
 - [Discussion Platform for Metacoupling Science (FW893)](https://docs.google.com/document/d/19iu-FEmVnN8EP3TD_NuvFNOpg4lvnWb5p7AggP1e614/edit?usp=sharing)
 
 
+# Office hour
+
+- Thursdays: 10:00-11:00 am EST (the same Zoom link) [sign-up-form](https://docs.google.com/spreadsheets/d/1Adw1Uxj7Ygdp2AClRtdG0Yk2rpkQff6Crfjwnk3r92w/edit?usp=sharing) & **Please send a reminder email to us after your signing up in this table**
+
+
 
